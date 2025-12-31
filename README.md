@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **React Framework**
 
-- 👨‍💻 All of my projects are available at [https://share.google/DtQvUnVGOzFB1yx40](https://share.google/DtQvUnVGOzFB1yx40)
+- 👨‍💻 My Personal Portfolio Link [https://share.google/DtQvUnVGOzFB1yx40](https://share.google/DtQvUnVGOzFB1yx40)
 
-- 📝 I regularly write articles on [https://medium.com/@manukrishnankess](https://medium.com/@manukrishnankess)
+- 📝 My blog page [https://medium.com/@manukrishnankess](https://medium.com/@manukrishnankess)
 
 - 💬 Ask me about **Python,Machine Learning, Web Dev**
 
