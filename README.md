@@ -5,11 +5,7 @@
 
 - 👨‍💻 My Personal Portfolio Link [https://share.google/DtQvUnVGOzFB1yx40](https://share.google/DtQvUnVGOzFB1yx40)
 
-- 📝 My blog page [https://medium.com/@manukrishnankess](https://medium.com/@manukrishnankess)
-
 - 💬 Ask me about **Python,Machine Learning, Web Dev**
-
-- 📫 How to reach me **manukrishnankess@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tojJFTUf4uLxhCC5NsBFpOpXe4sj1xgm/view?usp=drive_link](https://drive.google.com/file/d/1tojJFTUf4uLxhCC5NsBFpOpXe4sj1xgm/view?usp=drive_link)
 
